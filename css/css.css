@@ -1,0 +1,13 @@
+body {
+	width: 900px;
+}
+
+#left{
+	border: 5px dashed red;
+	width: 66.666667%;
+}
+
+#right{
+	border: 5px dashed green;
+	width: 33.333334%;
+}
